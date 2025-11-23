@@ -1,5 +1,7 @@
 # Customer_Behavior_Analysis
 A data analysis project focused on understanding customer behavior using real-world-style datasets. This project includes exploratory data analysis, data cleaning, trend identification, segmentation, and actionable insights on purchasing patterns. Visualizations and statistical summaries are used to highlight key drivers behind customer decisions.
+
+
 📌 Overview
 
 This project provides an end-to-end analysis of customer shopping behaviour using Python, SQL, and Power BI. The workflow includes data loading, exploratory data analysis, data cleaning, SQL-based business queries, dashboard creation, and a final presentation summarizing insights.
