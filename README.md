@@ -148,4 +148,5 @@ Certain product categories dominate purchases
 
 Loyal customers (with more than 10 previous purchases) contribute a major chunk of revenue
 
-(You can add more specific insights based on your final results.)
+⭐ If you like this project, please star the repository — it motivates future improvements!
+
